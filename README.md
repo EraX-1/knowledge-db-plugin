@@ -16,8 +16,11 @@
 
 ## インストール
 
-```bash
-/install-plugin EraX-1/knowledge-db-plugin
+Claude Code 上で以下を実行してください：
+
+```
+/plugin marketplace add EraX-1/knowledge-db-plugin
+/plugin install knowledge-db-plugin@erax-tools
 ```
 
 ## 使い方
