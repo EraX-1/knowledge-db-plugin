@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "knowledge-db-plugin",
-      "source": ".",
+      "source": "./plugins/knowledge-db-plugin",
       "description": "ナレッジDB読み書きスキル",
       "version": "1.0.0",
       "author": {
